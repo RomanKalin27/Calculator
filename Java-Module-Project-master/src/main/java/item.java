@@ -38,7 +38,6 @@ public class item {
                         default:
                             System.out.println(String.format("Общая сумма покупок: %.2f рублей", j));
                             break;
-
                     }
                     return j;
                 }
